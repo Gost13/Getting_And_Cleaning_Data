@@ -19,4 +19,4 @@ Once done, `run_analysis.R` can be sourcedfrom within any R environment, and the
 
 This will load all the required data from the unzipped folder, perform the necessary manipulations and finally generate the `tidy_data.txt` file inside the same folder.
 
-For further details about the exact manipulations performed on the data, please refer to the file `CodeBook.md`.
+For further details about the exact manipulations performed on the data, please refer to the file `Code Book.md`.
